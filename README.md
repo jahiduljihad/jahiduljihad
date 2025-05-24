@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/8nyP19zz/cover.png">
+
 <h1 align="center">🚀 Hello, I'm Jahidul Islam Jihad</h1>
 
 <p align="center">
